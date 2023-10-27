@@ -2,6 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+# Note (DESKTOP)
+YOU CAN MOVE THE CAMP IMAGES LEFT AND RIGHT ON DESKTOP DEVICES WITH A MOUSE, YOU WILL HAVE TO LEFT CLICK YOUR MOUSE AND MOVE IT IN A CERTAIN DIRECTION OF RIGHT IF YOU WANT TO MOVE RIGHT IT AND LEFT IF U WANT TO MOVE IT LEFT.
+
+# NOTE (MOBILE DEVICES) 
+YOU CAN MOVE THE CAMP IMAGES LEFT AND RIGHT THROUGH THE USUAL SWIPE LEFT AND RIGHT GESTURES ON YOUR TOUCH DEVICES
+
+# Website Link
+https://responsive-travel-website-2.vercel.app/
+
+# Screen shot
+<img width="948" alt="Capture" src="https://github.com/Mitalicops/Responsive-Travel-Website-2/assets/120451953/8afa22ad-719a-4be5-877d-0cf2e419345b">
+
 First, run the development server:
 
 ```bash
